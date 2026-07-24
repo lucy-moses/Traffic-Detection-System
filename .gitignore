@@ -1,0 +1,8 @@
+# Generated at runtime — don't commit
+frames/
+label_data.json
+__pycache__/
+*.pyc
+
+# Helper file — not part of the project
+ocr_cells_to_paste.txt
